@@ -1,0 +1,28 @@
+    .desc2 {
+        background-color: rgb(189, 143, 143);
+        border: #141414;
+        width: 2500px;
+        justify-content: center;
+        display: flex;
+        margin-top: 100px0px;
+        gap: 50px;
+        padding: 20px;
+    }
+    
+    .desc2 h1 {
+        border: 2px;
+        color: aqua;
+        font-family: Arial, sans-serif;
+        align-items: center;
+        justify-content: space-between;
+        writing-mode: vertical-lr;
+    }
+    
+    .desc2 h2 {
+        color: aqua;
+        writing-mode: vertical-lr;
+    }
+    
+    .desc2 p {
+        color: white;
+    }
